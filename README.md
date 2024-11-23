@@ -243,7 +243,6 @@ rcschool.html
 ## OUTPUT
 
 ![alt text](<Screenshot 2024-11-23 142805.png>) 
-![alt text](city-map.png) 
 ![alt text](<Screenshot 2024-11-23 142617.png>) 
 ![alt text](<Screenshot 2024-11-23 142638.png>) 
 ![alt text](<Screenshot 2024-11-23 142712.png>) 
